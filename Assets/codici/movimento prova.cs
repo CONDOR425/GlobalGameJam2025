@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public float speed = 2f;
+    public float speed = 1f;
 
     Vector3 move;
 
