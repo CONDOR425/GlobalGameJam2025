@@ -695,13 +695,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 75605822}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 5, z: 0}
+  m_LocalRotation: {x: 0.037495762, y: -0.97092795, z: -0.08546301, w: -0.22042935}
+  m_LocalPosition: {x: 1.038, y: 0.263, z: 0.736}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -10.515, y: -205.394, z: -2.048}
 --- !u!1 &86520881 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 677fd1922615d024cb146132693139cd, type: 3}
@@ -1060,7 +1060,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a6483aafcf8e2b4092a9f1fb245caa7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 8282451415221472620, guid: c82d8081b8abffe418eee9c5637db3b7, type: 3}
+  prefab: {fileID: 1264258751245767169, guid: ca43a3f7d16618642acc9c4ebae6b8bf, type: 3}
   spawnTime: 0.9
 --- !u!4 &143098695
 Transform:
@@ -1726,7 +1726,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a6483aafcf8e2b4092a9f1fb245caa7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 8282451415221472620, guid: c82d8081b8abffe418eee9c5637db3b7, type: 3}
+  prefab: {fileID: 1264258751245767169, guid: ca43a3f7d16618642acc9c4ebae6b8bf, type: 3}
   spawnTime: 0.9
 --- !u!4 &377134012
 Transform:
@@ -2648,7 +2648,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.25253433
+      value: 0.242
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2682,6 +2682,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d886a03c222b88a4b90589cfc87e56f5, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (5)
@@ -2739,6 +2743,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ad85ea01c6eb98f42817faa6cae7eb5f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9044032b8f5a5524a8809c03dcaa89ad, type: 2}
     - target: {fileID: 919132149155446097, guid: ad85ea01c6eb98f42817faa6cae7eb5f, type: 3}
       propertyPath: m_Name
       value: tree_plateau_dark
@@ -3027,7 +3035,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.25253433
+      value: 0.242
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3061,6 +3069,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d886a03c222b88a4b90589cfc87e56f5, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (4)
@@ -3186,6 +3198,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0ada9820a4723144fbf6729af7cdf163, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9044032b8f5a5524a8809c03dcaa89ad, type: 2}
     - target: {fileID: 919132149155446097, guid: 0ada9820a4723144fbf6729af7cdf163, type: 3}
       propertyPath: m_Name
       value: tree_small (1)
@@ -4264,7 +4280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a6483aafcf8e2b4092a9f1fb245caa7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 8282451415221472620, guid: c82d8081b8abffe418eee9c5637db3b7, type: 3}
+  prefab: {fileID: 1264258751245767169, guid: ca43a3f7d16618642acc9c4ebae6b8bf, type: 3}
   spawnTime: 0.9
 --- !u!4 &1069395512
 Transform:
@@ -4390,6 +4406,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
       propertyPath: m_Name
       value: statue_obelisk (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4909,6 +4929,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0ada9820a4723144fbf6729af7cdf163, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9044032b8f5a5524a8809c03dcaa89ad, type: 2}
     - target: {fileID: 919132149155446097, guid: 0ada9820a4723144fbf6729af7cdf163, type: 3}
       propertyPath: m_Name
       value: tree_small
@@ -5738,7 +5762,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.25253433
+      value: 0.242
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5772,6 +5796,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d886a03c222b88a4b90589cfc87e56f5, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock
@@ -6007,6 +6035,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0ada9820a4723144fbf6729af7cdf163, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9044032b8f5a5524a8809c03dcaa89ad, type: 2}
     - target: {fileID: 919132149155446097, guid: 0ada9820a4723144fbf6729af7cdf163, type: 3}
       propertyPath: m_Name
       value: tree_small (3)
@@ -6612,6 +6644,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 0ada9820a4723144fbf6729af7cdf163, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9044032b8f5a5524a8809c03dcaa89ad, type: 2}
     - target: {fileID: 919132149155446097, guid: 0ada9820a4723144fbf6729af7cdf163, type: 3}
       propertyPath: m_Name
       value: tree_small (2)
@@ -6816,7 +6852,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.25253433
+      value: 0.242
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6850,6 +6886,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d886a03c222b88a4b90589cfc87e56f5, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (2)
@@ -7602,7 +7642,7 @@ Transform:
   m_GameObject: {fileID: 1615628750}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.418, y: 0.118, z: -0.04}
+  m_LocalPosition: {x: -0.418, y: 0.093, z: -0.04}
   m_LocalScale: {x: 0.1, y: 0.08, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8662,7 +8702,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.25253433
+      value: 0.242
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8696,6 +8736,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d886a03c222b88a4b90589cfc87e56f5, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (3)
@@ -8731,7 +8775,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.25253433
+      value: 0.242
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8765,6 +8809,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d886a03c222b88a4b90589cfc87e56f5, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bd647ec6c0f14d4d93c34fd9f00db14, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (1)
@@ -9120,6 +9168,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
       propertyPath: m_Name
       value: statue_obelisk (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
