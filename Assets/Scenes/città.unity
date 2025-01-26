@@ -240,6 +240,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: f55658445a662d94c883196e78a56042, type: 2}
     - target: {fileID: 919132149155446097, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
       propertyPath: m_Name
       value: small_buildingE (4)
@@ -820,6 +824,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f93daf274b7c26348a3d942122a48cb7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 48c2db048856c7141b34e2aa340e753f, type: 2}
+    - target: {fileID: -7511558181221131132, guid: f93daf274b7c26348a3d942122a48cb7, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf2ad61646927314783c24dce71b9874, type: 2}
+    - target: {fileID: -7511558181221131132, guid: f93daf274b7c26348a3d942122a48cb7, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69b4b705246700e4d8c3dd03a70aa40c, type: 2}
     - target: {fileID: 919132149155446097, guid: f93daf274b7c26348a3d942122a48cb7, type: 3}
       propertyPath: m_Name
       value: log_stackLarge
@@ -883,6 +899,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d088a3d09c8ce7c40802eaaa3a06e2a0, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: c23ccbba4c7713f478320a0fac75b107, type: 2}
+    - target: {fileID: -7511558181221131132, guid: d088a3d09c8ce7c40802eaaa3a06e2a0, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: d4940013d9b93f24c9e7da9124d97126, type: 2}
     - target: {fileID: 919132149155446097, guid: d088a3d09c8ce7c40802eaaa3a06e2a0, type: 3}
       propertyPath: m_Name
       value: large_buildingF
@@ -1682,6 +1706,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5491805850e473b41a66b479eabcaa0c, type: 2}
     - target: {fileID: 919132149155446097, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
       propertyPath: m_Name
       value: small_buildingE (3)
@@ -1987,6 +2015,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c23ccbba4c7713f478320a0fac75b107, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf2ad61646927314783c24dce71b9874, type: 2}
     - target: {fileID: 919132149155446097, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
       propertyPath: m_Name
       value: statue_obelisk (1)
@@ -2050,6 +2086,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ad2470cb16f21e844988e2c0fccfe7b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e0971942fa230cc4ba1305ae52304d0f, type: 2}
+    - target: {fileID: -7511558181221131132, guid: ad2470cb16f21e844988e2c0fccfe7b6, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69b4b705246700e4d8c3dd03a70aa40c, type: 2}
     - target: {fileID: 919132149155446097, guid: ad2470cb16f21e844988e2c0fccfe7b6, type: 3}
       propertyPath: m_Name
       value: statue_head
@@ -2377,6 +2421,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 65d551cd9f5e3494596b0b541e1ce427, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: cd171fcacbd4a064785122157f1b8eae, type: 2}
     - target: {fileID: 919132149155446097, guid: 65d551cd9f5e3494596b0b541e1ce427, type: 3}
       propertyPath: m_Name
       value: tree_cone
@@ -2457,6 +2505,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: f55658445a662d94c883196e78a56042, type: 2}
     - target: {fileID: 919132149155446097, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
       propertyPath: m_Name
       value: small_buildingD
@@ -2746,7 +2798,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: ad85ea01c6eb98f42817faa6cae7eb5f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 9044032b8f5a5524a8809c03dcaa89ad, type: 2}
+      objectReference: {fileID: 2100000, guid: cd171fcacbd4a064785122157f1b8eae, type: 2}
+    - target: {fileID: -7511558181221131132, guid: ad85ea01c6eb98f42817faa6cae7eb5f, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 48c2db048856c7141b34e2aa340e753f, type: 2}
     - target: {fileID: 919132149155446097, guid: ad85ea01c6eb98f42817faa6cae7eb5f, type: 3}
       propertyPath: m_Name
       value: tree_plateau_dark
@@ -3328,6 +3384,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: ce7a3ab9c0a864843b270395a0ce654c, type: 2}
     - target: {fileID: 919132149155446097, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
       propertyPath: m_Name
       value: small_buildingE
@@ -3461,6 +3521,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5491805850e473b41a66b479eabcaa0c, type: 2}
     - target: {fileID: 919132149155446097, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
       propertyPath: m_Name
       value: small_buildingD (2)
@@ -3703,6 +3767,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2255633a991489b40a455718dc77cfd5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cd171fcacbd4a064785122157f1b8eae, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 2255633a991489b40a455718dc77cfd5, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 48c2db048856c7141b34e2aa340e753f, type: 2}
     - target: {fileID: 919132149155446097, guid: 2255633a991489b40a455718dc77cfd5, type: 3}
       propertyPath: m_Name
       value: tree_plateau
@@ -3877,6 +3949,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b319f3227e9a3ac499ef0663f964ad39, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: d4940013d9b93f24c9e7da9124d97126, type: 2}
     - target: {fileID: 919132149155446097, guid: b319f3227e9a3ac499ef0663f964ad39, type: 3}
       propertyPath: m_Name
       value: large_buildingD (1)
@@ -4236,6 +4312,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d088a3d09c8ce7c40802eaaa3a06e2a0, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf2ad61646927314783c24dce71b9874, type: 2}
+    - target: {fileID: -7511558181221131132, guid: d088a3d09c8ce7c40802eaaa3a06e2a0, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: ce7a3ab9c0a864843b270395a0ce654c, type: 2}
     - target: {fileID: 919132149155446097, guid: d088a3d09c8ce7c40802eaaa3a06e2a0, type: 3}
       propertyPath: m_Name
       value: large_buildingF (1)
@@ -4403,6 +4487,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c23ccbba4c7713f478320a0fac75b107, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf2ad61646927314783c24dce71b9874, type: 2}
     - target: {fileID: 919132149155446097, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
       propertyPath: m_Name
       value: statue_obelisk (2)
@@ -4528,6 +4620,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2255633a991489b40a455718dc77cfd5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cd171fcacbd4a064785122157f1b8eae, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 2255633a991489b40a455718dc77cfd5, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 48c2db048856c7141b34e2aa340e753f, type: 2}
     - target: {fileID: 919132149155446097, guid: 2255633a991489b40a455718dc77cfd5, type: 3}
       propertyPath: m_Name
       value: tree_plateau (1)
@@ -4803,6 +4903,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: ce7a3ab9c0a864843b270395a0ce654c, type: 2}
     - target: {fileID: 919132149155446097, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
       propertyPath: m_Name
       value: small_buildingD (3)
@@ -5388,7 +5492,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4857efa67764aee46a2844beb1056b07, type: 2}
+  - {fileID: 2100000, guid: 69b4b705246700e4d8c3dd03a70aa40c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5539,6 +5643,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bf7e5b567a1591140b4f151d1795b81f, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5491805850e473b41a66b479eabcaa0c, type: 2}
     - target: {fileID: 919132149155446097, guid: bf7e5b567a1591140b4f151d1795b81f, type: 3}
       propertyPath: m_Name
       value: skyscraperE
@@ -5667,6 +5775,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: d4940013d9b93f24c9e7da9124d97126, type: 2}
     - target: {fileID: 919132149155446097, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
       propertyPath: m_Name
       value: small_buildingD (4)
@@ -6114,6 +6226,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: c23ccbba4c7713f478320a0fac75b107, type: 2}
     - target: {fileID: 919132149155446097, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
       propertyPath: m_Name
       value: small_buildingE
@@ -6247,6 +6363,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: d886a03c222b88a4b90589cfc87e56f5, type: 2}
     - target: {fileID: 919132149155446097, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
       propertyPath: m_Name
       value: small_buildingD (5)
@@ -6581,6 +6701,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: ce7a3ab9c0a864843b270395a0ce654c, type: 2}
     - target: {fileID: 919132149155446097, guid: 9882b0d92e0d97a42937a74457c58fe8, type: 3}
       propertyPath: m_Name
       value: small_buildingE (2)
@@ -7196,6 +7320,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5491805850e473b41a66b479eabcaa0c, type: 2}
     - target: {fileID: 919132149155446097, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
       propertyPath: m_Name
       value: small_buildingD (6)
@@ -7259,6 +7387,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c23ccbba4c7713f478320a0fac75b107, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf2ad61646927314783c24dce71b9874, type: 2}
     - target: {fileID: 919132149155446097, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
       propertyPath: m_Name
       value: statue_obelisk
@@ -7387,6 +7523,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5491805850e473b41a66b479eabcaa0c, type: 2}
     - target: {fileID: 919132149155446097, guid: 18ae34c3f432ca246baa8dfd2e88b143, type: 3}
       propertyPath: m_Name
       value: small_buildingD (1)
@@ -7730,6 +7870,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bf7e5b567a1591140b4f151d1795b81f, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: ce7a3ab9c0a864843b270395a0ce654c, type: 2}
     - target: {fileID: 919132149155446097, guid: bf7e5b567a1591140b4f151d1795b81f, type: 3}
       propertyPath: m_Name
       value: skyscraperE (1)
@@ -9165,6 +9309,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c23ccbba4c7713f478320a0fac75b107, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf2ad61646927314783c24dce71b9874, type: 2}
     - target: {fileID: 919132149155446097, guid: 72b731123967be047b91ab6f3c4bddd6, type: 3}
       propertyPath: m_Name
       value: statue_obelisk (3)
@@ -9295,6 +9447,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b319f3227e9a3ac499ef0663f964ad39, type: 3}
+      propertyPath: m_Materials.Array.data[4]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5491805850e473b41a66b479eabcaa0c, type: 2}
     - target: {fileID: 919132149155446097, guid: b319f3227e9a3ac499ef0663f964ad39, type: 3}
       propertyPath: m_Name
       value: large_buildingD
